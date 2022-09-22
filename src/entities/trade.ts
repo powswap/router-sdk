@@ -1,5 +1,5 @@
 import { Currency, CurrencyAmount, Fraction, Percent, Price, TradeType } from '@uniswap/sdk-core'
-import { Pair, Route as V2RouteSDK, Trade as V2TradeSDK } from '@uniswap/v2-sdk'
+import { Pair, Route as V2RouteSDK, Trade as V2TradeSDK } from '@powswap/sdk'
 import { Pool, Route as V3RouteSDK, Trade as V3TradeSDK } from '@uniswap/v3-sdk'
 import invariant from 'tiny-invariant'
 import { ONE, ZERO } from '../constants'
