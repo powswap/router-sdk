@@ -1312,10 +1312,10 @@
   resolved "https://registry.npmjs.org/@openzeppelin/contracts/-/contracts-3.4.1-solc-0.7-2.tgz"
   integrity sha512-tAG9LWg8+M2CMu7hIsqHPaTyG4uDzjr6mhvH96LvOpLZZj6tgzTluBt+LsCf1/QaYrlis6pITvpIaIhE+iZB+Q==
 
-"@powswap/sdk@^3.0.3":
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/@powswap/sdk/-/sdk-3.0.3.tgz#5a83498849442c1166212dec364152def2b1f4ab"
-  integrity sha512-LL+WCr1aFEOlG/kqWhoU5/yQI3HHuztCfkJHLggvHMV/VQqlJqi5q1BuAK2KBleyk8X0stneZUcue4YVW6vLEQ==
+"@powswap/sdk@^3.0.5":
+  version "3.0.5"
+  resolved "https://registry.yarnpkg.com/@powswap/sdk/-/sdk-3.0.5.tgz#2ddd1ac355268e0a8bc998552e4a02c5d67896d0"
+  integrity sha512-HB+8aPGFXaKHbCDIFOXxan5nrffMMV4yTHj0KJVpm6NL8n81LA6fq/lzVbjG33fdW1uM6geaZNwDKEKXAWymIw==
   dependencies:
     "@ethersproject/address" "^5.0.0"
     "@ethersproject/solidity" "^5.0.0"
